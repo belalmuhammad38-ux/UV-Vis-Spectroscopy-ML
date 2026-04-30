@@ -174,8 +174,8 @@ This project was inspired by **Prof. Pavlo Dral's** lecture on ML for Molecular 
 
 ## 👤 Author
 
-**Belal Muhammad**
-- GitHub: 
+**Muhammad Bilal**
+- GitHub: https://github.com/belalmuhammad38-ux
 - Kaggle: 
 
 ---
